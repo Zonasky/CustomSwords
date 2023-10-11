@@ -1,0 +1,10 @@
+name: CustomSwords
+main: Swords\ZonaSky\Loader
+version: 0.0.1
+api: 5.0.0
+author: ZonaSky
+
+permissions:
+  swords.ui.use:
+    description: perm to open swords ui
+    default: op
